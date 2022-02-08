@@ -1,6 +1,7 @@
 
 '''
 Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes'
+
 '''
 
 # print("\n") is used to make the print statements look readable in terminal
